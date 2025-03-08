@@ -1,0 +1,4 @@
+6月 01, 2024 1:02:01 上午 team.patpat.database.AssistantLogin performDatabaseOperation
+严重: 发生异常: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
